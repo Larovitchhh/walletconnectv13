@@ -1,5 +1,5 @@
 ;; --------------------------------------------------
-;; Level 6 - Governance & VIP Voting (FIXED)
+;; Level 13 - Governance & VIP Voting (FIXED)
 ;; --------------------------------------------------
 
 ;; Constants
